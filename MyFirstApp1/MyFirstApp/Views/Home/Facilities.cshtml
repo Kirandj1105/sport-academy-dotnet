@@ -1,0 +1,290 @@
+﻿
+
+<style>
+{
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial;
+    padding: 20px;
+    background-image: url('../images/footballbackground.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  /* logo navbar */
+  .logo-navbar{
+    background-color: #B0BEC5;
+    text-align: left;
+    border-radius: 10px;
+  }
+
+  .lakshyalogo{
+    width: 70px;
+  }
+
+  /* Header/Blog Title */
+  .header {
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #E53935;
+    text-align: center;
+    background: #B0BEC5;
+  }
+
+  #content{
+    font-size: 19px;
+  }
+
+  .Img{
+    border-radius: 10px;
+  }
+
+  /* Left column */
+  .leftcolumn {
+    float: left;
+    width: 75%;
+  }
+
+  /* Right column */
+  .rightcolumn {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+  }
+
+  /* Add a card effect for articles */
+  .card {
+    background-image: url('../images/cardbackground1.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /* width: 1000px; */
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Footer */
+  .footer-margin {
+    margin-top: 20px;
+  }
+
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+
+
+
+  /* card css */
+  .card-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .card-column {
+    flex: 1;
+    margin-right: 1rem;
+  }
+
+  .left {
+    margin-right: 0;
+  }
+
+  .right {
+    margin-left: 1rem;
+  }
+
+  .side-card-heading{
+    font-weight: bold;
+    color: #E53935;
+  }
+
+  </style>
+
+<div>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <div class="header">
+        <h2>Facilities</h2>
+    </div>
+
+    <div class="row">
+        <div class="leftcolumn">
+
+            <div class="card">
+                <h2 class='facilities-title'><Link to="/facilitiesDetails">Athletics</Link></h2>
+                <div class="card-content">
+                    <div class="card-column left">
+                        <h5>8 lane X 400 meters international standard IAAF certified Synthetic track with steeplechase, long-...</h5>
+                        <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    </div>
+                    <div class="card-column right">
+                        <div class="fakeimg" style={{ height: '300px' , width: '100%' , overflow: 'hidden' }}>
+                            <img src="~/images/Athletics.png" class="Img d-block w-100 " alt="First slide" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2 class='facilities-title'><Link to="/">Basketball</Link></h2>
+                <div class="card-content">
+                    <div class="card-column left">
+                        <h5>Synthetic Acrylic Coated Basketball Court which is used to train the school, college and academy Ba...</h5>
+                        <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    </div>
+                    <div class="card-column right">
+                        <div class="fakeimg" style={{ height: '300px' , width: '100%' , overflow: 'hidden' }}>
+                            <img src="~/images/basketball.png" class="Img d-block w-100 " alt="First slide" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2 class='facilities-title'><Link to="/">Football Field</Link></h2>
+                <div class="card-content">
+                    <div class="card-column left">
+                        <h5>65 m X 105 m natural grass field, one of very few well maintained grass Football fields across Mumba...</h5>
+                        <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    </div>
+                    <div class="card-column right">
+                        <div class="fakeimg" style={{ height: '300px' , width: '100%' , overflow: 'hidden' }}>
+                            <img src="~/images/Football.png" class="Img d-block w-100 " alt="First slide" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2 class='facilities-title'><Link to="/">Gymnasium</Link></h2>
+                <div class="card-content">
+                    <div class="card-column left">
+                        <h5>Synthetic mat floor with necessary cardio and strengthening equipment</h5>
+                        <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    </div>
+                    <div class="card-column right">
+                        <div class="fakeimg" style={{ height: '300px' , width: '100%' , overflow: 'hidden' }}>
+                            <img src="~/images/gymnasium.png" class="Img d-block w-100 " alt="First slide" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2 class='facilities-title'><Link to="/">Gymnasium</Link></h2>
+                <div class="card-content">
+                    <div class="card-column left">
+                        <h5>Synthetic mat floor with necessary cardio and strengthening equipment</h5>
+                        <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    </div>
+                    <div class="card-column right">
+                        <div class="fakeimg" style={{ height: '300px' , width: '100%' , overflow: 'hidden' }}>
+                            <img src="~/images/gymnasium.png" class="Img d-block w-100 " alt="First slide" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2 class='facilities-title'><Link to="/">Gymnasium</Link></h2>
+                <div class="card-content">
+                    <div class="card-column left">
+                        <h5>Synthetic mat floor with necessary cardio and strengthening equipment</h5>
+                        <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    </div>
+                    <div class="card-column right">
+                        <div class="fakeimg" style={{ height: '300px' , width: '100%' , overflow: 'hidden' }}>
+                            <img src="~/images/gymnasium.png" class="Img d-block w-100 " alt="First slide" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2 class='facilities-title'><Link to="/">Gymnasium</Link></h2>
+                <div class="card-content">
+                    <div class="card-column left">
+                        <h5>Synthetic mat floor with necessary cardio and strengthening equipment</h5>
+                        <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    </div>
+                    <div class="card-column right">
+                        <div class="fakeimg" style={{ height: '300px' , width: '100%' , overflow: 'hidden' }}>
+                            <img src="~/images/gymnasium.png" class="Img d-block w-100 " alt="First slide" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2 class='facilities-title'><Link to="/">Gymnasium</Link></h2>
+                <div class="card-content">
+                    <div class="card-column left">
+                        <h5>Synthetic mat floor with necessary cardio and strengthening equipment</h5>
+                        <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    </div>
+                    <div class="card-column right">
+                        <div class="fakeimg" style={{ height: '300px' , width: '100%' , overflow: 'hidden' }}>
+                            <img src="~/images/gymnasium.png" class="Img d-block w-100 " alt="First slide" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="rightcolumn">
+
+            <div class="card">
+                <h2 class="side-card-heading">Khelo India..</h2><br></br>
+                <img src="~/images/kheloindia.jpg" class="Img d-block w-100 " alt="First slide" />
+
+                <p>The Khelo India programme has been introduced to revive the sports culture in India at the grass-root level by building a strong framework for all sports played ...</p>
+            </div>
+
+            <div class="card">
+                <h3 class="side-card-heading">The Most Popular Sports In The World</h3><br></br>
+                <h5>1. Football (Soccer)</h5>
+                <img src="~/images/Football.png" class="Img d-block w-100 " alt="First slide" />
+                <h5>2. Cricket</h5>
+                <img src="~/images/cricket.webp" class="Img d-block w-100 " alt="First slide" />
+                <h5>3. hockey</h5>
+                <img src="~/images/hockey.webp" class="Img d-block w-100 " alt="First slide" />
+                <h5>4. tennis</h5>
+                <img src="~/images/tennis.webp" class="Img d-block w-100 " alt="First slide" />
+                <h5>5. volleyball</h5>
+                <img src="~/images/volleyball.webp" class="Img d-block w-100 " alt="First slide" />
+                <h5>6. tabletennis</h5>
+                <img src="~/images/tabletennis.webp" class="Img d-block w-100 " alt="First slide" />
+                <h5>7. basketball2</h5>
+                <img src="~/images/basketball3.jpg" class="Img d-block w-100 " alt="First slide" />
+                <h5>8. baseball</h5>
+                <img src="~/images/baseball.webp" class="Img d-block w-100 " alt="First slide" />
+                <h5>9. rugby</h5>
+                <img src="~/images/rugby.webp" class="Img d-block w-100 " alt="First slide" />
+                <h5>10. golf</h5>
+                <img src="~/images/golf.webp" class="Img d-block w-100 " alt="First slide" />
+
+            </div>
+            <div class="card">
+                <h3><b>In Summary</b></h3>
+                <p>Now that you have explored the ten most popular sports in the world, it is time for you to decide! Which of these sports is your favorite? Do you have a different opinion? Be sure to share this article with your friends and family and see what they think.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="footer-margin"></div>
+
+</div>

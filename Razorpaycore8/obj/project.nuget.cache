@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+3SpeJmXPS1VzvgmeR7kWGzvBwupIgcuKL6+aVx3YjiJOmpMDc4weUxo4AfFuuayv1X3gkCZ0yS+cBPX/LtDdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\Razorpaycore805122023124520870\\Razorpaycore805122023124520870\\Razorpaycore8\\Razorpaycore8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\razorpay.core\\1.0.2\\razorpay.core.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

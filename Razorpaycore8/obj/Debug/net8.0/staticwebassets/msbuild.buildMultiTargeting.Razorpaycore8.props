@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Razorpaycore8.props" />
+</Project>

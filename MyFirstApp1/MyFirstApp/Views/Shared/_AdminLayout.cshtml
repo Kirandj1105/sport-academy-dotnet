@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyFirstApp</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MyFirstApp.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm  navbar navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Lakshya Sports Academy</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                       
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Events" asp-action="Index1">User Event</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Events" asp-action="Index">Event</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Privacy">News</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="About">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="AppRoles" asp-action="Index">Roles</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Coaches" asp-action="Index3">Coach</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Users1" asp-action="Index2">User</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Sports" asp-action="Index">Sports</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <partial name ="_LoginPartial"/> 
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+   
+           
+
+            <div class="container">
+                <footer class="bg-light text-center text-lg-start text-muted">
+                    <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+                        <div class="me-5 d-none d-lg-block">
+                            <span class="ftext">Get connected with us on social networks:</span>
+                        </div>
+
+                        <div>
+                            <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" class="social-icon" id="ic">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                            <!-- Add similar links for Twitter, LinkedIn, and Instagram -->
+                        </div>
+                    </section>
+
+                    <section class="">
+                        <div class="container text-center text-md-start mt-5">
+                      
+                       
+                            <div class="row mt-3">
+                                <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                                    <h5 class="text-uppercase fw-bold mb-4 ftext1">
+                                        <i class="fa fa-gem me-3"></i>
+                                        LAKSHYA
+                                    </h5>
+                                    <p class="ftext1">
+                                        Our Vision
+                                        Olympic Dream India Sports Academy is committed to creating future champions on and off the field by inspiring and educating student-athletes to become purpose-driven leaders. We do this through highly specialized performance and personal development training and by equipping instructors to train and motivate students beyond their physical skill level.
+                                    </p>
+                                </div>
+
+                                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                                    <h6 class="text-uppercase fw-bold mb-4 ftext">OUR SPORTS</h6>
+                                    <p>
+                                        <a href='#!' className='text-reset' class="ftext">
+                                            Athletics
+                                        </a>
+                                    </p>
+                                    <p>
+                                        <a href='#!' className='text-reset' class="ftext">
+                                            Football
+                                        </a>
+                                    </p>
+                                    <p>
+                                        <a href='#!' className='text-reset' class="ftext">
+                                            Tennis
+                                        </a>
+                                    </p>
+                                    <p>
+                                        <a href='#!' className='text-reset' class="ftext">
+                                            Basketball
+                                        </a>
+                                    </p>
+                                    <!-- Add links for other sports -->
+                                </div>
+
+                                <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                                    <h6 className='text-uppercase fw-bold mb-4' class="ftext">Contact</h6>
+                                    <p class="ftext">
+                                        <MDBIcon icon="home" className="me-2" class="ftext" />
+                                        Mumbai, India
+                                    </p>
+                                    <p class="ftext">
+                                        <MDBIcon icon="envelope" className="me-3" class="ftext" />
+                                        lakshya@gmail.com
+                                    </p>
+                                    <p class="ftext">
+                                        <MDBIcon icon="phone" className="me-3" class="ftext" /> + 01 234 567 88
+                                    </p>
+                                    <p class="ftext">
+                                        <MDBIcon icon="print" className="me-3" /> + 01 234 567 89
+                                    </p>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05)">
+                        © @DateTime.Now.Year Copyright:
+                        <a href='https://mdbootstrap.com/' class="text-reset fw-bold ftext">
+                            Lakshya Sports Academy
+                        </a>
+                    </div>
+                </footer>
+            </div>
+
+           
+        
+            
+  
+       
+
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

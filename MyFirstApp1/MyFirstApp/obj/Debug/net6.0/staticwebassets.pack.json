@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SportsAcademy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SportsAcademy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\Athletics.png",
+      "PackagePath": "staticwebassets\\images\\Athletics.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\Bhushan2.png",
+      "PackagePath": "staticwebassets\\images\\Bhushan2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\Football.png",
+      "PackagePath": "staticwebassets\\images\\Football.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\Harsh.jpg",
+      "PackagePath": "staticwebassets\\images\\Harsh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\Hemant.jpeg",
+      "PackagePath": "staticwebassets\\images\\Hemant.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\Kiran.jpg",
+      "PackagePath": "staticwebassets\\images\\Kiran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\Numair.png",
+      "PackagePath": "staticwebassets\\images\\Numair.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\baseball.webp",
+      "PackagePath": "staticwebassets\\images\\baseball.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\basketball.png",
+      "PackagePath": "staticwebassets\\images\\basketball.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\basketball3.jpg",
+      "PackagePath": "staticwebassets\\images\\basketball3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\cricket.webp",
+      "PackagePath": "staticwebassets\\images\\cricket.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\cricket1.jpg",
+      "PackagePath": "staticwebassets\\images\\cricket1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\football2.jpg",
+      "PackagePath": "staticwebassets\\images\\football2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\golf.webp",
+      "PackagePath": "staticwebassets\\images\\golf.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\gymnasium.png",
+      "PackagePath": "staticwebassets\\images\\gymnasium.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\hockey.webp",
+      "PackagePath": "staticwebassets\\images\\hockey.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\kheloindia.jpg",
+      "PackagePath": "staticwebassets\\images\\kheloindia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\rugby.webp",
+      "PackagePath": "staticwebassets\\images\\rugby.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\tabletennis.webp",
+      "PackagePath": "staticwebassets\\images\\tabletennis.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\tennis.webp",
+      "PackagePath": "staticwebassets\\images\\tennis.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\images\\volleyball.webp",
+      "PackagePath": "staticwebassets\\images\\volleyball.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\Images\\Slide1.jpeg",
+      "PackagePath": "staticwebassets\\lib\\Images\\Slide1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\Images\\aboutbanner.jpg",
+      "PackagePath": "staticwebassets\\lib\\Images\\aboutbanner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\Images\\home1.jpg",
+      "PackagePath": "staticwebassets\\lib\\Images\\home1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\Images\\login1.jfif",
+      "PackagePath": "staticwebassets\\lib\\Images\\login1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\Images\\telecaller1.jpg",
+      "PackagePath": "staticwebassets\\lib\\Images\\telecaller1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Desktop\\asp net project\\.net project\\MyFirstApp1\\MyFirstApp1\\MyFirstApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SportsAcademy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SportsAcademy.props",
+      "PackagePath": "build\\SportsAcademy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SportsAcademy.props",
+      "PackagePath": "buildMultiTargeting\\SportsAcademy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SportsAcademy.props",
+      "PackagePath": "buildTransitive\\SportsAcademy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

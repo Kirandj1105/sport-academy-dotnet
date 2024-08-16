@@ -1,0 +1,102 @@
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.AssemblyInfoInputs.cache
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.AssemblyInfo.cs
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.CoreCompileInputs.cache
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.MvcApplicationPartsAssemblyInfo.cache
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.RazorAssemblyInfo.cache
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.RazorAssemblyInfo.cs
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.AssemblyReference.cache
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\appsettings.Development.json
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\appsettings.json
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.staticwebassets.runtime.json
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.exe
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.deps.json
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.runtimeconfig.json
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.dll
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.pdb
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DEMO\Razorpaycore8\bin\Debug\net8.0\RazorPay Core.dll
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\staticwebassets.build.json
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\staticwebassets.development.json
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.Razorpaycore8.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.build.Razorpaycore8.props
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Razorpaycore8.props
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Razorpaycore8.props
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\scopedcss\bundle\Razorpaycore8.styles.css
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\scopedcss\projectbundle\Razorpaycore8.bundle.scp.css
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.CopyComplete
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.dll
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\refint\Razorpaycore8.dll
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.pdb
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.genruntimeconfig.cache
+D:\DEMO\Razorpaycore8\obj\Debug\net8.0\ref\Razorpaycore8.dll
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.staticwebassets.runtime.json
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.exe
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.deps.json
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.dll
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.pdb
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\RazorPay Core.dll
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.RazorAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.RazorAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.Razorpaycore8.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.build.Razorpaycore8.props
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Razorpaycore8.props
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Razorpaycore8.props
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\scopedcss\bundle\Razorpaycore8.styles.css
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\scopedcss\projectbundle\Razorpaycore8.bundle.scp.css
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.dll
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\refint\Razorpaycore8.dll
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.pdb
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\ref\Razorpaycore8.dll
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.staticwebassets.runtime.json
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.exe
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.deps.json
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.dll
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Razorpaycore8.pdb
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\bin\Debug\net8.0\RazorPay Core.dll
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.RazorAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.RazorAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.Razorpaycore8.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.build.Razorpaycore8.props
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Razorpaycore8.props
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Razorpaycore8.props
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\scopedcss\bundle\Razorpaycore8.styles.css
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\scopedcss\projectbundle\Razorpaycore8.bundle.scp.css
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.dll
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\refint\Razorpaycore8.dll
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.pdb
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\Razorpaycore8.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\asp net project\Razorpaycore805122023124520870\Razorpaycore805122023124520870\Razorpaycore8\obj\Debug\net8.0\ref\Razorpaycore8.dll

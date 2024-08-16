@@ -1,0 +1,147 @@
+/* _content/SportsAcademy/Views/Shared/_AdminLayout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-7ijus3luab] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-7ijus3luab] {
+  color: #0077cc;
+}
+
+.btn-primary[b-7ijus3luab] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-7ijus3luab], .nav-pills .show > .nav-link[b-7ijus3luab] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-7ijus3luab] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-7ijus3luab] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-7ijus3luab] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-7ijus3luab] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-7ijus3luab] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/SportsAcademy/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-a86w4ophau] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-a86w4ophau] {
+  color: #0077cc;
+}
+
+.btn-primary[b-a86w4ophau] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-a86w4ophau], .nav-pills .show > .nav-link[b-a86w4ophau] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-a86w4ophau] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-a86w4ophau] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-a86w4ophau] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-a86w4ophau] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-a86w4ophau] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/SportsAcademy/Views/Shared/_UserLayout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-wn2w1oy615] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-wn2w1oy615] {
+  color: #0077cc;
+}
+
+.btn-primary[b-wn2w1oy615] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-wn2w1oy615], .nav-pills .show > .nav-link[b-wn2w1oy615] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-wn2w1oy615] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-wn2w1oy615] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-wn2w1oy615] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-wn2w1oy615] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-wn2w1oy615] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

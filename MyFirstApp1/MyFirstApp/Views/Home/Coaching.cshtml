@@ -1,0 +1,192 @@
+﻿@{
+    ViewData["Title"] = "Coaching";
+
+
+}
+
+<style>
+
+    body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    max-width: 1200px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the content */
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    width: 100%; /* Adjust the width as needed */
+ 
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.coaching{
+    color: black;
+    text-decoration: none;
+}
+
+#button1{
+    width: 50%;
+    border-radius: 5px;
+    background-color: lightblue;
+}
+#button1:hover{
+    border-radius: 5px;
+    background-color: blue;
+    cursor:  pointer;
+}
+
+.card-content {
+    display: flex;
+}
+
+.card-column {
+    flex: 1;
+    padding: 10px;
+}
+
+.details {
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.fakeimg {
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.Img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+   
+}
+
+.footer-margin {
+    margin-bottom: 50px;
+}
+
+
+
+.card{
+    text-decoration: none;
+    color: black;
+}
+.
+
+
+
+    .facilities-title{
+        text-align:center;
+    }
+
+</style>
+
+<div className="header">
+    <h2>Coaching</h2>
+
+</div>
+<hr />
+<div className="row">
+    <div className="leftcolumn">
+
+        <div class="card">
+            <h2 class='facilities-title'>Athletics Coaching 7 years and above</h2>
+            <div class="card-content">
+                <div class="card-column left">
+                    <h5 class='details'><b>Campus : </b>CDAC Mumbai Campus</h5>
+                    <div class="button-container">
+                        @Html.ActionLink("Click To Know More...", "Coaching1", null, new { @class = "button1" })
+                    </div>
+                </div>
+                <div class="card-column right">
+                    <div class="fakeimg" >
+                        <img src="~/images/Athletics.png" class="Img d-block w-100 " alt="First slide" />
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <hr />
+        <div class="card">
+            <h2 class='facilities-title'>Basketball</h2>
+            <div class="card-content">
+                <div class="card-column left">
+                    <h5>Synthetic Acrylic Coated Basketball Court which is used to train the school, college and academy Ba...</h5>
+                    <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    <div class="button-container">
+                        @Html.ActionLink("Click To Know More...", "Coaching2", null, new { @class = "button1" })
+                    </div>
+                </div>
+                <div class="card-column right">
+                    <div class="fakeimg" >
+                        <img src="~/images/basketball.png" class="Img d-block w-100" alt="First slide" />
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="card">
+            <h2 class="facilities-title">Football</h2>
+            <div class="card-content">
+                <div class="card-column left">
+                    <h5>65 m X 105 m natural grass field, one of very few well-maintained grass Football fields across Mumba...</h5>
+                    <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    <div class="button-container">
+                        @Html.ActionLink("Click To Know More...", "Coaching3", null, new { @class = "button1" })
+                    </div>
+                </div>
+                <div class="card-column right">
+                    <img src="~/images/Football.png" class="Img d-block w-100" alt="First slide" />
+
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="card">
+            <h2 class='facilities-title'>Gymnasium</h2>
+            <div class="card-content">
+                <div class="card-column left">
+                    <h5>Synthetic mat floor with necessary cardio and strengthening equipment</h5>
+                    <h5><b>Campus : </b>Somaiya Vidyavihar</h5>
+                    <div class="button-container">
+                        @Html.ActionLink("Click To Know More...", "Coaching4", null, new { @class = "button1" })
+                    </div>
+                </div>
+                <div class="card-column right">
+                    
+                    <img src="~/images/gymnasium.png" class="Img d-block w-100" alt="First slide" />
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="footer-margin"></div>
+        
